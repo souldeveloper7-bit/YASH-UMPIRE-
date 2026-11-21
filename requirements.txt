@@ -1,0 +1,7 @@
+python-telegram-bot[job-queue]==21.10
+motor==3.6.0
+pymongo==4.9.2
+python-dotenv==1.0.1
+cryptography==43.0.3
+qrcode[pil]==8.0
+Pillow==11.0.0
